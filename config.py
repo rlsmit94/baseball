@@ -1,0 +1,2 @@
+# Database configuration
+BASEBALL_DB_PASSWORD=TeddyLily011322!
